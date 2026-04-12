@@ -1,0 +1,16 @@
+{
+    "titre": "Rapport ESG",
+    "nombre_entreprises": 5,
+    "moyennes_par_categorie": {
+        "E (Environnement)": 65.2,
+        "S (Social)": 71.4,
+        "G (Gouvernance)": 74.2
+    },
+    "moyennes_par_entreprise": {
+        "TotalEnergies": 55.0,
+        "Danone": 78.0,
+        "LVMH": 69.0,
+        "BNP Paribas": 65.33,
+        "Schneider Electric": 84.0
+    }
+}
