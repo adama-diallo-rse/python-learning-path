@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "source": "ADEME Base Carbone",
+    "date_extraction": "2026-05-09 12:49",
+    "nombre_facteurs": 21
+  },
+  "facteurs": [
+    {
+      "categorie": "Transport",
+      "nom": "Voiture essence",
+      "valeur_co2": 0.218,
+      "unite": "kgCO2e/km",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Thermique"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Voiture diesel",
+      "valeur_co2": 0.195,
+      "unite": "kgCO2e/km",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Thermique"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Voiture electrique (France)",
+      "valeur_co2": 0.02,
+      "unite": "kgCO2e/km",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Electrique"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "TGV",
+      "valeur_co2": 0.00174,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Ferroviaire"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "TER",
+      "valeur_co2": 0.0249,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Ferroviaire"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Avion court-courrier (<1000km)",
+      "valeur_co2": 0.258,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Aerien"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Avion moyen-courrier (1000-3500km)",
+      "valeur_co2": 0.187,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Aerien"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Avion long-courrier (>3500km)",
+      "valeur_co2": 0.152,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Aerien"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Bus thermique",
+      "valeur_co2": 0.113,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Routier"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Metro Paris",
+      "valeur_co2": 0.00251,
+      "unite": "kgCO2e/km.passager",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Ferroviaire"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Velo",
+      "valeur_co2": 0.0,
+      "unite": "kgCO2e/km",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Doux"
+    },
+    {
+      "categorie": "Transport",
+      "nom": "Trottinette electrique",
+      "valeur_co2": 0.002,
+      "unite": "kgCO2e/km",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "mode_transport": "Doux"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Electricite France",
+      "valeur_co2": 0.0569,
+      "unite": "kgCO2e/kWh",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Electricite"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Electricite Allemagne",
+      "valeur_co2": 0.385,
+      "unite": "kgCO2e/kWh",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Electricite"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Electricite Pologne",
+      "valeur_co2": 0.773,
+      "unite": "kgCO2e/kWh",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Electricite"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Electricite UE moyenne",
+      "valeur_co2": 0.259,
+      "unite": "kgCO2e/kWh",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Electricite"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Gaz naturel",
+      "valeur_co2": 0.205,
+      "unite": "kgCO2e/kWh PCI",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Gaz"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Fioul domestique",
+      "valeur_co2": 0.271,
+      "unite": "kgCO2e/kWh PCI",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Fioul"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Bois (buches)",
+      "valeur_co2": 0.03,
+      "unite": "kgCO2e/kWh PCI",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Biomasse"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Charbon",
+      "valeur_co2": 0.385,
+      "unite": "kgCO2e/kWh PCI",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Charbon"
+    },
+    {
+      "categorie": "Energie",
+      "nom": "Reseau de chaleur (France moy.)",
+      "valeur_co2": 0.125,
+      "unite": "kgCO2e/kWh",
+      "source": "ADEME Base Carbone 2024",
+      "date_extraction": "2026-05-09 12:49",
+      "type_energie": "Chaleur"
+    }
+  ]
+}
